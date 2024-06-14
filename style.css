@@ -24,6 +24,8 @@ div{
     padding: 30px;
 }
 
-@media screen and (min-width: 450px){
-
+@media screen and (min-width:1024px){
+section{
+    background-color: brown;
+}
 }
